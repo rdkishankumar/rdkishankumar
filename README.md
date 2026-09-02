@@ -109,19 +109,6 @@ I build backend systems for lending and credit platforms — payment processing,
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdkishankumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdkishankumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rdkishankumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
