@@ -1,43 +1,3 @@
-Here are three non-wavy, clean banner designs keeping your **exact text content** unchanged:
-
----
-
-### Option 1: Rectangular Glass / Cyber Gradient (`rect`)
-
-*Clean, sharp, and structured like modern fintech terminals—no wave lines.*
-
-```html
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1d,45:002b66,100:00a3ff&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Kishan%20Kumar%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20FinTech%20and%20Lending&descAlignY=58&descSize=17&descColor=70b8ff" width="100%"/>
-
-```
-
----
-
-### Option 2: Architectural Diagonal Slice (`slice`)
-
-*A sharp, modern diagonal cut that divides the banner diagonally with deep contrast.*
-
-```html
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:162238,100:1f6feb&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Kishan%20Kumar%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20FinTech%20and%20Lending&descAlignY=60&descSize=17&descColor=79c0ff" width="100%"/>
-
-```
-
----
-
-### Option 3: Smooth Soft Arc (`cylinder`)
-
-*Symmetrical, grounded curve that gives an enterprise/platform header feel without looking turbulent.*
-
-```html
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:092c63,100:0077b5&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Kishan%20Kumar%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20FinTech%20and%20Lending&descAlignY=58&descSize=17&descColor=82c4ff" width="100%"/>
-
-```
-
----
-
-### Full Profile Code (Using Option 1 - Clean Sharp Rectangular):
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1d,45:002b66,100:00a3ff&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Kishan%20Kumar%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20FinTech%20and%20Lending&descAlignY=58&descSize=17&descColor=70b8ff" width="100%"/>
@@ -169,5 +129,3 @@ I build backend systems for lending and credit platforms — payment processing,
 <img src="https://visitcount.itsvg.in/api?id=rdkishankumar&icon=0&color=0" alt="Views" />
 
 </div>
-
-```
