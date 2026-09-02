@@ -17,6 +17,9 @@
 ⚙️ Architecture & Scale — Designing resilient, event-driven workflows with Apache Kafka, complex rule engines using Drools, and solid LLD/HLD patterns.
 
 🧠 Algorithmic Focus — 500+ problems solved across LeetCode & GFG, applied directly to concurrency, latency, and data integrity challenges.
+
+Backend Engineer specializing in core lending and FinTech infrastructure—designing mission-critical payment pipelines, automated credit assessments, and high-accuracy transaction classification engines. Worked with EPAM Systems (partnering with CoreLogic); previously spent 4.5 years at Credochain building loan-lifecycle systems from the ground up.
+
 ---
 
 ## 💼 Experience Highlights
