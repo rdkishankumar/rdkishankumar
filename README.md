@@ -1,89 +1,6 @@
 <div align="center">
 
-<svg width="100%" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Background Slate Base -->
-    <rect id="bg" width="1000" height="220" rx="10" fill="#2d3b55"/>
-    
-    <!-- Gradients for Layers -->
-    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="85%" stop-color="#f8fbff"/>
-      <stop offset="100%" stop-color="#edf5ff"/>
-    </linearGradient>
-
-    <linearGradient id="blueBase" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#5ca9f8" stop-opacity="0.3"/>
-      <stop offset="50%" stop-color="#2b7be4" stop-opacity="0.75"/>
-      <stop offset="100%" stop-color="#1456bc" stop-opacity="0.95"/>
-    </linearGradient>
-
-    <linearGradient id="blueMid" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#80c3ff" stop-opacity="0.4"/>
-      <stop offset="60%" stop-color="#388bfd" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#1a62d6" stop-opacity="0.9"/>
-    </linearGradient>
-
-    <linearGradient id="blueHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#b6dcfe" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#539bf5" stop-opacity="0.85"/>
-    </linearGradient>
-
-    <filter id="shadow" x="-5%" y="-5%" width="110%" height="120%" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#09101d" flood-opacity="0.4"/>
-    </filter>
-
-    <clipPath id="innerCardClip">
-      <rect x="25" y="18" width="950" height="184" rx="4"/>
-    </clipPath>
-  </defs>
-
-  <!-- Canvas Outer Background -->
-  <rect width="1000" height="220" rx="8" fill="#2b384e"/>
-
-  <!-- Inner Elevated White Card -->
-  <g filter="url(#shadow)">
-    <rect x="25" y="18" width="950" height="184" rx="4" fill="url(#cardGrad)"/>
-  </g>
-
-  <!-- Corporate Geometric Blue Waves (Clipped to Card) -->
-  <g clip-path="url(#innerCardClip)">
-    <!-- Top subtle light angle -->
-    <path d="M600 18 L1000 18 L1000 100 L720 18 Z" fill="#ddecfe" fill-opacity="0.5"/>
-    
-    <!-- Background Arch -->
-    <path d="M280 202 C 480 180, 680 80, 975 70 L975 202 Z" fill="url(#blueHighlight)"/>
-
-    <!-- Mid Angular Swell -->
-    <path d="M120 202 C 340 190, 520 145, 750 78 L975 140 L975 202 Z" fill="url(#blueMid)"/>
-
-    <!-- Foreground Dynamic Ribbon -->
-    <path d="M25 202 C 220 180, 480 140, 780 135 L975 180 L975 202 Z" fill="url(#blueBase)"/>
-    <path d="M25 202 C 320 202, 540 168, 760 150 C 860 142, 930 162, 975 175 L975 202 Z" fill="#1b66db"/>
-  </g>
-
-  <!-- Left Header Content -->
-  <g transform="translate(65, 55)">
-    <!-- Overline Category -->
-    <text x="0" y="24" fill="#1f6feb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">
-      KISHAN KUMAR
-    </text>
-
-    <line x1="0" y1="36" x2="48" y2="36" stroke="#218bff" stroke-width="2.5" stroke-linecap="round"/>
-
-    <!-- Main Title -->
-    <text x="0" y="70" fill="#0f1f38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" letter-spacing="0.2">
-      Welcome to My Profile!
-    </text>
-
-    <!-- Subtitle / Meta -->
-    <text x="0" y="102" fill="#4b6182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="500">
-      Backend Engineer • FinTech and Lending Systems
-    </text>
-  </g>
-</svg>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:121722,50:182130,100:0e131b&height=220&section=header&text=Kishan%20Kumar&fontSize=42&fontColor=6ee7d8&fontAlignY=42&desc=Backend%20Engineer%20%7C%20FinTech%20%26%20Lending%20Systems&descAlignY=62&descSize=16&descColor=99f6e4" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KISHANKUMAR_02/)
@@ -95,17 +12,19 @@
 
 ## 🧭 About Me
 
-- 🧠 **Problem Solver** — 500+ DSA problems solved on LeetCode & GeeksforGeeks, applied daily to fintech/lending backend challenges
-- 📚 **Continuous Learner** — actively sharpening LLD/HLD system design, event-driven architecture (Kafka), and rules-driven workflows (Drools)
-- ☕ **Java Specialist** — 4+ years building production systems in Java 17+, Spring Boot, and Hibernate
+☕ Java & Distributed Systems — 5+ years engineering high-throughput production systems using Java 17+, Spring Boot, Microservices, and Hibernate.
 
-I build backend systems for lending and credit platforms — payment processing, credit assessment workflows, and transaction classification engines that can't afford to be wrong. Currently at **EPAM Systems**, working with **CoreLogic**; previously **4.5 years at Credochain** building loan-lifecycle infrastructure from the ground up.
+⚙️ Architecture & Scale — Designing resilient, event-driven workflows with Apache Kafka, complex rule engines using Drools, and solid LLD/HLD patterns.
+
+🧠 Algorithmic Focus — 500+ problems solved across LeetCode & GFG, applied directly to concurrency, latency, and data integrity challenges.
+
+Backend Engineer specializing in core lending and FinTech infrastructure—designing mission-critical payment pipelines, automated credit assessments, and high-accuracy transaction classification engines. Worked with EPAM Systems (partnering with CoreLogic); previously spent 4.5 years at Credochain building loan-lifecycle systems from the ground up.
 
 ---
 
 ## 💼 Experience Highlights
 
-**EPAM Systems** — Software Engineer, *Client: CoreLogic* (Feb 2026 – Present)
+**EPAM Systems** — Software Engineer, *Client: CoreLogic* (Feb 2026 – June 2026)
 - Collaborate with cross-functional teams to troubleshoot and resolve production issues, and proactively monitor system performance for early risk detection.
 
 **Credochain** — Software Engineer → Intern (Jan 2021 – Jan 2026)
@@ -189,11 +108,6 @@ I build backend systems for lending and credit platforms — payment processing,
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rdkishankumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rdkishankumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=rdkishankumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
@@ -209,6 +123,8 @@ I build backend systems for lending and credit platforms — payment processing,
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=rdkishankumar&icon=0&color=0" alt="Views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rdkishankumar&label=Profile%20Views&color=0077b5&style=flat-square" alt="Profile Views" />
+</div>
 
 </div>
