@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2A7B9B,50:57C785,100:EDDD53&height=300&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=277386&fontAlignY=45&fontFamily=Segoe%20UI&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2A7B9B,50:57C785,100:EDDD53&height=300&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=277386&fontAlignY=45&fontFamily=Segoe%20UI&animation=fadeIn" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=38A3A5&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Kishan+Kumar+%E2%80%A2+Backend+Engineer+at+EPAM+Systems;Specialized+in+High-Throughput+Lending+%26+Credit+Infrastructure;Java+17+%7C+Spring+Boot+%7C+Kafka+%7C+Hibernate+%7C+AWS" alt="Typing SVG Multi-line" />
+  </a>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
