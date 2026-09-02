@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Kishan Kumar 👋</h1>
-  <p><strong>Backend & Distributed Systems Engineer | Java, Spring Boot & FinTech Systems</strong></p>
+  <p><strong>Backend & Distributed Systems Engineer | Java, Spring Boot & FinTech Platforms</strong></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KISHANKUMAR_02/)
