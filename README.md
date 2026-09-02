@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:0052cc,100:00d2ff&height=220&section=header&text=Kishan%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20FinTech%2C%20Lending%20%26%20Distributed%20Systems&descAlignY=56&descSize=17&descColor=79c0ff" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KISHANKUMAR_02/)
@@ -12,27 +12,27 @@
 
 ## 🧭 About Me
 
-- 🧠 **Problem Solver** — 500+ DSA problems solved on LeetCode & GeeksforGeeks, applied daily to fintech/lending backend challenges
-- 📚 **Continuous Learner** — actively sharpening LLD/HLD system design, event-driven architecture (Kafka), and rules-driven workflows (Drools)
-- ☕ **Java Specialist** — 4+ years building production systems in Java 17+, Spring Boot, and Hibernate
+- 🧠 **Problem Solver** — 500+ DSA problems solved across LeetCode & GeeksforGeeks, applied directly to complex lending workflows and high-concurrency systems.
+- ☕ **Java Specialist** — 4+ years architecting and scaling production systems in Java 17+, Spring Boot, Hibernate, and microservices.
+- 📚 **System Architect** — Focused on low-level & high-level design (LLD/HLD), event-driven processing with Apache Kafka, and business rules engines via Drools.
 
-I build backend systems for lending and credit platforms — payment processing, credit assessment workflows, and transaction classification engines that can't afford to be wrong. Currently at **EPAM Systems**, working with **CoreLogic**; previously **4.5 years at Credochain** building loan-lifecycle infrastructure from the ground up.
+I build backend systems for lending and credit platforms — payment processing, credit assessment workflows, and transaction classification engines that cannot afford to be wrong. Currently at **EPAM Systems**, working with **CoreLogic**; previously **4.5 years at Credochain** building loan-lifecycle infrastructure from the ground up.
 
 ---
 
 ## 💼 Experience Highlights
 
 **EPAM Systems** — Software Engineer, *Client: CoreLogic* (Feb 2026 – Present)
-- Collaborate with cross-functional teams to troubleshoot and resolve production issues, and proactively monitor system performance for early risk detection.
+- Collaborate with cross-functional engineering teams to troubleshoot and resolve production issues, ensuring resilient operations and early risk detection across mission-critical services.
 
 **Credochain** — Software Engineer → Intern (Jan 2021 – Jan 2026)
-- Built a bank transaction classification utility (EMI, bounces, loan transactions, charges, salary, reversals, tax refunds), **cutting manual credit-team effort by 80%**
-- Designed an extensible payment processing system integrated with **Razorpay**, enabling plug-and-play onboarding for multiple NBFC/banking partners
-- Built a credit behavior classifier from third-party API data, **cutting analysis workload by 85%**
-- Designed a pluggable **CIBIL/credit bureau integration** service supporting multiple vendors
-- Revamped onboarding for **Ugro Capital** with OCR/NACH via DIGIO, **cutting manual effort by 90%**
-- Built a cross-field deduplication system (bank account, PAN, Aadhaar, mobile) that **cut fraud by 75%**
-- Optimized database queries on Spring Boot REST APIs, **improving response times by 20%**
+- Built an automated bank transaction classification utility (EMI, bounces, loan disbursements, charges, salaries, tax refunds), **cutting manual credit assessment effort by 80%**.
+- Architected an extensible payment processing module integrated with **Razorpay**, enabling modular onboarding across multiple banking and NBFC partners.
+- Engineered a credit behavior classifier consuming third-party API data, **reducing manual analysis workload by 85%**.
+- Built a pluggable **CIBIL / multi-bureau integration service** providing unified scoring pipelines.
+- Modernized merchant onboarding for **Ugro Capital** utilizing OCR/eNACH via DIGIO, **reducing manual processing time by 90%**.
+- Developed a cross-field identity deduplication engine (account, PAN, ID, phone) that **reduced fraudulent applications by 75%**.
+- Refactored Spring Boot query plans and data fetching patterns, **yielding a 20% latency drop across critical endpoints**.
 
 ---
 
