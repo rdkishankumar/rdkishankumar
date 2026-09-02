@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10141d,50:182130,100:0d121a&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=38&fontColor=6ee7d8&fontAlignY=38&desc=Kishan%20Kumar%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20FinTech%20and%20Lending&descAlignY=58&descSize=16&descColor=99f6e4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d14,40:111827,80:1e293b,100:0f766e&height=210&section=header&text=Welcome%20to%20My%20Profile!&fontSize=38&fontColor=5eead4&fontAlignY=38&desc=Kishan%20Kumar%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20FinTech%20and%20Lending&descAlignY=60&descSize=16&descColor=99f6e4" width="100%" alt="Header Banner" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
