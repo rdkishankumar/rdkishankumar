@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaf2fb,50:8fb8ea,100:1c4587&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontColor=1c3f78&fontAlignY=35&desc=Kishan%20Kumar%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20FinTech%20and%20Lending&descAlignY=55&descSize=18&descColor=2d5faa" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KISHANKUMAR_02/)
