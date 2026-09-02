@@ -1,28 +1,64 @@
 <div align="center">
-  <h1>Hi, I'm Kishan Kumar 👋</h1>
-  <p><strong>Backend & Distributed Systems Engineer | Java, Spring Boot & FinTech Platforms</strong></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KISHANKUMAR_02/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krsh.kishankumar@gmail.com)
+# Hi, I'm Kishan Kumar 👋
+### Backend Engineer building high-throughput systems for FinTech & Lending
+
+*Java · Spring Boot · Apache Kafka · Distributed Systems*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KISHANKUMAR_02/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krsh.kishankumar@gmail.com)
+
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+## 🧭 About Me
 
-- 🔭 **Engineering Focus:** Building high-throughput, fault-tolerant backend architectures and microservices. Specialized in banking workflows, ledger systems, interest calculations, and payment APIs.
-- ⚡ **Architecture & Design:** Deepening expertise in Low-Level (LLD) & High-Level (HLD) distributed system design, transaction isolation, and event-driven patterns with Apache Kafka.
-- 💡 **Problem Solving:** Passionate about data structures, algorithms, and writing clean, testable, and maintainable production code.
-- 🤝 **Collaboration:** Open to collaborating on backend-heavy SaaS, high-scale API development, and distributed FinTech systems.
+I design and ship backend systems that move money reliably — payment processing pipelines, credit assessment workflows, and transaction classification engines that can't afford to be wrong. Currently at **EPAM Systems**, embedded with **CoreLogic**, working across event-driven services and third-party financial integrations.
+
+- 🏦 **4+ years** building production fintech/lending systems — payments, credit workflows, bank transaction classification
+- ⚙️ Deep focus on **transaction isolation, event-driven architecture (Kafka), and fault-tolerant microservices**
+- 📐 Actively sharpening **LLD/HLD system design** — the kind that survives a scale-up, not just a demo
+- 🎓 B.Tech, NIT Agartala
+- 🤝 Open to backend-heavy SaaS and distributed FinTech collaboration
+
+> Replace the line above with a real "currently seeking" or "open to" statement — recruiters look for this first.
 
 ---
 
-### 🚀 Tech Stack
+## 🛠️ Featured Work
+
+> **This is the section that will do the most for you.** Pin 2–4 repos on your GitHub profile (Profile → Customize your pins) and list them here with what they actually do and the hard part you solved. Recruiters skim stats; they read this.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 [Project Name](https://github.com/rdkishankumar/repo)
+One line: what it does and for whom.
+**Hard part solved:** e.g. "idempotent payment retries under Kafka partition rebalancing"
+`Java` `Spring Boot` `Kafka` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### 🔹 [Project Name](https://github.com/rdkishankumar/repo)
+One line: what it does and for whom.
+**Hard part solved:** e.g. "reduced credit-check latency from Xs to Yms via caching layer"
+`Java` `Redis` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Tech Stack
 
 <table border="0">
   <tr>
-    <td width="22%"><strong>Core Backend</strong></td>
+    <td width="20%"><strong>Core Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -69,7 +105,7 @@
 
 ---
 
-### 🏆 Coding & Problem Solving
+## 🏆 Coding & Problem Solving
 
 <div align="center">
   <a href="https://leetcode.com/u/KISHANKUMAR_02/" target="_blank">
@@ -79,7 +115,7 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rdkishankumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -92,16 +128,16 @@
 
 ---
 
+<div align="center">
+
 ### 🤝 Let's Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rdkishankumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/KISHANKUMAR_02/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:krsh.kishankumar@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KISHANKUMAR_02/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krsh.kishankumar@gmail.com)
 
 <br/>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rdkishankumar&icon=0&color=0" alt="Views" />
+<img src="https://visitcount.itsvg.in/api?id=rdkishankumar&icon=0&color=0" alt="Views" />
+
 </div>
