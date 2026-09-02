@@ -1,7 +1,5 @@
 <div align="center">
-  <h1 style="color: #27BEF5; margin-bottom: 0;">WELCOME TO MY PROFILE!</h1>
-
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2A7B9B,50:57C785,100:EDDD53&height=220&section=header&text=KISHAN%20KUMAR&fontSize=42&fontColor=27BEF5&fontAlignY=42&fontFamily=Segoe%20UI&animation=fadeIn&desc=BACKEND%20ENGINEER%20at%20EPAM%20Systems&descAlignY=62&descSize=18&descColor=27BEF5" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2A7B9B,50:57C785,100:EDDD53&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE!&fontSize=50&fontColor=27BEF5&fontAlignY=38&fontFamily=Segoe%20UI&animation=fadeIn&desc=KISHAN%20KUMAR%20%E2%80%A2%20BACKEND%20ENGINEER%20at%20EPAM%20Systems&descAlignY=58&descSize=18&descColor=27BEF5" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=27BEF5&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Java+17%2B+%E2%80%A2+Spring+Boot+.Hibernate%E2%80%A2+Apache+Kafka+%E2%80%A2+Microservices+.+aws;Specialized+in+backend+systems+for+FinTech+%26+Lending" alt="Typing SVG Multi-line" />
