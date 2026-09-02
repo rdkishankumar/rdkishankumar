@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kishan Kumar 👋
-### Backend Engineer building high-throughput systems for FinTech & Lending
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d26,100:2b0f0a&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Kishan%20Kumar%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20FinTech%20%26%20Lending&descAlignY=56&descSize=18&descColor=f2d9d3" width="100%"/>
 
 *Java 17+ · Spring Boot · Apache Kafka · Microservices*
 
@@ -15,14 +14,11 @@
 
 ## 🧭 About Me
 
-I build backend systems for lending and credit platforms — payment processing, credit assessment workflows, and transaction classification engines that can't afford to be wrong. Currently at **EPAM Systems**, working with **CoreLogic**; previously **5+ years at Credochain** building loan-lifecycle infrastructure from the ground up.
+- 🧠 **Problem Solver** — 500+ DSA problems solved on LeetCode & GeeksforGeeks, applied daily to fintech/lending backend challenges
+- 📚 **Continuous Learner** — actively sharpening LLD/HLD system design, event-driven architecture (Kafka), and rules-driven workflows (Drools)
+- ☕ **Java Specialist** — 4+ years building production systems in Java 17+, Spring Boot, and Hibernate
 
-- 🏦 **5+ years** in fintech/lending backend systems — payments, credit workflows, bank transaction classification, credit bureau integrations
-- ⚙️ Deep focus on **event-driven architecture (Kafka), rules-driven workflows (Drools), and fault-tolerant microservices**
-- 📐 Actively sharpening **LLD/HLD system design**
-- 🎓 B.Tech in Electronics and Instrumentation Engineering, NIT Agartala
-- 🧩 **500+ DSA problems** solved on LeetCode & GeeksforGeeks
-- 🤝 Open to backend-heavy SaaS and distributed FinTech collaboration
+I build backend systems for lending and credit platforms — payment processing, credit assessment workflows, and transaction classification engines that can't afford to be wrong. Currently at **EPAM Systems**, working with **CoreLogic**; previously **4.5 years at Credochain** building loan-lifecycle infrastructure from the ground up.
 
 ---
 
@@ -105,6 +101,19 @@ I build backend systems for lending and credit platforms — payment processing,
   <a href="https://leetcode.com/u/KISHANKUMAR_02/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/KISHANKUMAR_02?theme=dark&font=Ubuntu&ext=activity" alt="Kishan's LeetCode Stats" width="65%" />
   </a>
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdkishankumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdkishankumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rdkishankumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
