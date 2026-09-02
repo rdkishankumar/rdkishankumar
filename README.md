@@ -121,6 +121,8 @@ I build backend systems for lending and credit platforms — payment processing,
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=rdkishankumar&icon=0&color=0" alt="Views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rdkishankumar&label=Profile%20Views&color=0077b5&style=flat-square" alt="Profile Views" />
+</div>
 
 </div>
