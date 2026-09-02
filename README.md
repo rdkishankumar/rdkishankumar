@@ -31,7 +31,7 @@ Backend Engineer specializing in core lending and FinTech infrastructure—desig
 **EPAM Systems** — Software Engineer, *Client: CoreLogic* (Feb 2026 – June 2026)
 - Collaborate with cross-functional teams to troubleshoot and resolve production issues, and proactively monitor system performance for early risk detection.
 
-**Credochain** — Software Engineer → Intern (Jan 2021 – Jan 2026)
+**Credochain** — Software Engineer (Jan 2021 – Jan 2026)
 - Built a bank transaction classification utility (EMI, bounces, loan transactions, charges, salary, reversals, tax refunds), **cutting manual credit-team effort by 80%**
 - Designed an extensible payment processing system integrated with **Razorpay**, enabling plug-and-play onboarding for multiple NBFC/banking partners
 - Built a credit behavior classifier from third-party API data, **cutting analysis workload by 85%**
