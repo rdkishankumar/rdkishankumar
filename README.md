@@ -3,7 +3,7 @@
 # Hi, I'm Kishan Kumar 👋
 ### Backend Engineer building high-throughput systems for FinTech & Lending
 
-*Java · Spring Boot · Apache Kafka · Distributed Systems*
+*Java 17+ · Spring Boot · Apache Kafka · Microservices*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdkishankumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KISHANKUMAR_02/)
@@ -15,42 +15,30 @@
 
 ## 🧭 About Me
 
-I design and ship backend systems that move money reliably — payment processing pipelines, credit assessment workflows, and transaction classification engines that can't afford to be wrong. Currently at **EPAM Systems**, embedded with **CoreLogic**, working across event-driven services and third-party financial integrations.
+I build backend systems for lending and credit platforms — payment processing, credit assessment workflows, and transaction classification engines that can't afford to be wrong. Currently at **EPAM Systems**, working with **CoreLogic**; previously **4.5 years at Credochain** building loan-lifecycle infrastructure from the ground up.
 
-- 🏦 **4+ years** building production fintech/lending systems — payments, credit workflows, bank transaction classification
-- ⚙️ Deep focus on **transaction isolation, event-driven architecture (Kafka), and fault-tolerant microservices**
-- 📐 Actively sharpening **LLD/HLD system design** — the kind that survives a scale-up, not just a demo
-- 🎓 B.Tech, NIT Agartala
+- 🏦 **4+ years** in fintech/lending backend systems — payments, credit workflows, bank transaction classification, credit bureau integrations
+- ⚙️ Deep focus on **event-driven architecture (Kafka), rules-driven workflows (Drools), and fault-tolerant microservices**
+- 📐 Actively sharpening **LLD/HLD system design**
+- 🎓 B.Tech in Electronics and Instrumentation Engineering, NIT Agartala
+- 🧩 **500+ DSA problems** solved on LeetCode & GeeksforGeeks
 - 🤝 Open to backend-heavy SaaS and distributed FinTech collaboration
-
-> Replace the line above with a real "currently seeking" or "open to" statement — recruiters look for this first.
 
 ---
 
-## 🛠️ Featured Work
+## 💼 Experience Highlights
 
-> **This is the section that will do the most for you.** Pin 2–4 repos on your GitHub profile (Profile → Customize your pins) and list them here with what they actually do and the hard part you solved. Recruiters skim stats; they read this.
+**EPAM Systems** — Software Engineer, *Client: CoreLogic* (Feb 2026 – Present)
+- Collaborate with cross-functional teams to troubleshoot and resolve production issues, and proactively monitor system performance for early risk detection.
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 [Project Name](https://github.com/rdkishankumar/repo)
-One line: what it does and for whom.
-**Hard part solved:** e.g. "idempotent payment retries under Kafka partition rebalancing"
-`Java` `Spring Boot` `Kafka` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### 🔹 [Project Name](https://github.com/rdkishankumar/repo)
-One line: what it does and for whom.
-**Hard part solved:** e.g. "reduced credit-check latency from Xs to Yms via caching layer"
-`Java` `Redis` `Docker`
-
-</td>
-</tr>
-</table>
+**Credochain** — Software Engineer → Intern (Jan 2021 – Jan 2026)
+- Built a bank transaction classification utility (EMI, bounces, loan transactions, charges, salary, reversals, tax refunds), **cutting manual credit-team effort by 80%**
+- Designed an extensible payment processing system integrated with **Razorpay**, enabling plug-and-play onboarding for multiple NBFC/banking partners
+- Built a credit behavior classifier from third-party API data, **cutting analysis workload by 85%**
+- Designed a pluggable **CIBIL/credit bureau integration** service supporting multiple vendors
+- Revamped onboarding for **Ugro Capital** with OCR/NACH via DIGIO, **cutting manual effort by 90%**
+- Built a cross-field deduplication system (bank account, PAN, Aadhaar, mobile) that **cut fraud by 75%**
+- Optimized database queries on Spring Boot REST APIs, **improving response times by 20%**
 
 ---
 
@@ -60,25 +48,22 @@ One line: what it does and for whom.
   <tr>
     <td width="20%"><strong>Core Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+      <img src="https://img.shields.io/badge/Drools-000000?style=flat-square&logo=redhat&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>Messaging & Cache</strong></td>
+    <td><strong>Messaging</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
@@ -86,19 +71,28 @@ One line: what it does and for whom.
   <tr>
     <td><strong>Cloud & DevOps</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Secrets_Manager-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Tools & VCS</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Architecture</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     </td>
   </tr>
 </table>
