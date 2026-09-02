@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:f8fafc,100:f1f5f9&height=180&section=header&text=WELCOME%20TO%20MY%20PROFILE!&fontSize=42&fontColor=1D2949&fontAlignY=40&desc=KISHAN%20KUMAR%20%E2%80%A2%20BACKEND%20ENGINEER%20at%20EPAM%20Systems&descAlignY=64&descSize=18&descColor=6181CC" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2A7B9B,50:57C785,100:EDDD53&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE!&fontSize=50&fontColor=1D2949&fontAlignY=38&fontFamily=Segoe%20UI&animation=fadeIn&desc=KISHAN%20KUMAR%20%E2%80%A2%20BACKEND%20ENGINEER%20at%20EPAM%20Systems&descAlignY=58&descSize=18&descColor=6181CC" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=6181CC&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Java+17%2B+%E2%80%A2+Spring+Boot+%E2%80%A2+Hibernate+%E2%80%A2+Apache+Kafka+%E2%80%A2+Microservices+%E2%80%A2+AWS;Specialized+in+backend+systems+for+FinTech+%26+Lending" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=6181CC&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Java+17%2B+%E2%80%A2+Spring+Boot+.Hibernate%E2%80%A2+Apache+Kafka+%E2%80%A2+Microservices+.+aws;Specialized+in+backend+systems+for+FinTech+%26+Lending" alt="Typing SVG Multi-line" />
   </a>
 </div>
 
