@@ -14,7 +14,7 @@
 
 - 🧠 **Problem Solver** — 500+ DSA problems solved on LeetCode & GeeksforGeeks, applied daily to fintech/lending backend challenges
 - 📚 **Continuous Learner** — actively sharpening LLD/HLD system design, event-driven architecture (Kafka), and rules-driven workflows (Drools)
-- ☕ **Java Specialist** — 4+ years building production systems in Java 17+, Spring Boot, and Hibernate
+- ☕ **Java Specialist** — 5+ years building production systems in Java 17+, Spring Boot, Microservies and Hibernate
 
 I build backend systems for lending and credit platforms — payment processing, credit assessment workflows, and transaction classification engines that can't afford to be wrong. Currently at **EPAM Systems**, working with **CoreLogic**; previously **4.5 years at Credochain** building loan-lifecycle infrastructure from the ground up.
 
@@ -22,7 +22,7 @@ I build backend systems for lending and credit platforms — payment processing,
 
 ## 💼 Experience Highlights
 
-**EPAM Systems** — Software Engineer, *Client: CoreLogic* (Feb 2026 – Present)
+**EPAM Systems** — Software Engineer, *Client: CoreLogic* (Feb 2026 – June 2026)
 - Collaborate with cross-functional teams to troubleshoot and resolve production issues, and proactively monitor system performance for early risk detection.
 
 **Credochain** — Software Engineer → Intern (Jan 2021 – Jan 2026)
